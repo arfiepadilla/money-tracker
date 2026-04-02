@@ -1,1 +1,0 @@
-Spreadsheet editor with formula support. Create and edit spreadsheets with cells, formulas, and basic data manipulation features. Import and export data in common formats.
