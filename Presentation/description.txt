@@ -1,1 +1,0 @@
-Create and display presentations. Build slide decks with text, images, and multimedia content. Present in full-screen mode with navigation controls.
