@@ -1,1 +1,0 @@
-View and edit PDF documents. Open PDF files, navigate through pages, add annotations, and perform basic editing operations on your documents.
