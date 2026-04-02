@@ -1,1 +1,0 @@
-Animated character display with customizable animations and expressions. Create and display animated avatars with various motion effects and character styles.
