@@ -1,1 +1,0 @@
-AI agent workflow with MCP tool integration. Uses Qwen 2.5 14B for reasoning and tool calling, with optional Qwen3-VL for vision tasks. Discovers and uses tools from the MCP registry at runtime. Features streaming responses with real-time tool execution.
