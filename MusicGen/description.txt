@@ -1,1 +1,0 @@
-Generate music using AI. Create original music tracks by providing text descriptions of the style, mood, and instruments you want. Export generated audio for use in your projects.
