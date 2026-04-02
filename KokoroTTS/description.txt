@@ -1,1 +1,0 @@
-Text-to-speech synthesis using the Kokoro TTS engine. Convert written text into natural-sounding speech with customizable voice settings and playback controls.
