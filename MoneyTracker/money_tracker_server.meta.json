@@ -1,0 +1,7 @@
+{
+  "toolServerId": "money_tracker_server",
+  "displayName": "Money Tracker Server",
+  "description": "Backend for Money Tracker workflow. Accepts CSV uploads and returns categorized transactions.",
+  "entry": "money_tracker_server.py",
+  "category": "Finance"
+}

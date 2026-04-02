@@ -1,0 +1,1 @@
+Extract text from images using OCR (Optical Character Recognition). Upload images containing text and get the extracted text content for editing or analysis.

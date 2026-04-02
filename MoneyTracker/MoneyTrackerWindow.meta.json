@@ -1,0 +1,7 @@
+{
+  "windowId": "MoneyTrackerWindow",
+  "displayName": "Money Tracker",
+  "description": "Upload and parse your bank CSV to track income, expenses, savings, and investments.",
+  "entry": "MoneyTrackerWindow.tsx",
+  "category": "Finance"
+}

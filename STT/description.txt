@@ -1,0 +1,1 @@
+Speech-to-text transcription. Convert spoken audio into written text using voice recognition. Record from your microphone or upload audio files for transcription.

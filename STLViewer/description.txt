@@ -1,0 +1,1 @@
+View 3D STL model files. Load and inspect 3D models in STL format with pan, zoom, and rotation controls. Useful for previewing 3D printed designs and CAD models.

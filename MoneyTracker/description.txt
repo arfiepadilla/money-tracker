@@ -1,0 +1,1 @@
+MoneyTracker: A ContextUI workflow for uploading and parsing bank CSV files to track income, expenses, savings, and investments. Users can upload a CSV, and the app will categorize and display transactions according to custom rules.

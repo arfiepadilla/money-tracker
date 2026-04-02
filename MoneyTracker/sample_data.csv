@@ -1,0 +1,50 @@
+Transaction Type,Payee,Category,Total
+Salary,Employer Inc,Income,5000
+Bonus,Employer Inc,Bonus,1500
+Transfer,Freelance Client,Contract Work,800
+Purchase,Whole Foods,Groceries,-250
+Purchase,Shell Gas Station,Gas,-60
+Payment,Electric Company,Utilities,-120
+Payment,Water Company,Utilities,-45
+Purchase,Netflix,Entertainment,-15
+Purchase,Spotify,Entertainment,-12
+Purchase,Amazon,Shopping,-85
+Purchase,Target,Shopping,-120
+Purchase,Walmart,Groceries,-95
+Transfer,Bank Account,Savings,-1000
+Transfer,Savings Account,Savings,-500
+Investment,Fidelity,401k,-400
+Investment,Vanguard,Stock Investment,-600
+Purchase,Starbucks,Food & Drink,-35
+Purchase,Uber,Transportation,-28
+Purchase,Chipotle,Food & Drink,-18
+Purchase,Best Buy,Electronics,-250
+Transfer,Emergency Fund,Savings,-300
+Investment,Charles Schwab,Stocks,-800
+Purchase,Movie Theater,Entertainment,-32
+Purchase,Gym Membership,Health,-50
+Salary,Employer Inc,Income,5000
+Purchase,Grocery Store,Groceries,-180
+Purchase,Pharmacy,Health,-75
+Purchase,Restaurant,Dining,-65
+Transfer,Savings Account,Savings,-400
+Investment,401k Plan,Retirement,-500
+Purchase,Coffee Shop,Food & Drink,-22
+Purchase,Bookstore,Education,-45
+Purchase,Clothing Store,Shopping,-110
+Purchase,Hotel,Travel,-300
+Purchase,Flight,Travel,-450
+Investment,Brokerage Account,Investment,-1200
+Transfer,Savings Account,Savings,-600
+Purchase,Insurance,Bills,-200
+Purchase,Car Maintenance,Auto,-150
+Salary,Employer Inc,Income,5000
+Bonus,Employer Inc,Year End Bonus,3000
+Purchase,Electronics Store,Electronics,-400
+Purchase,Furniture Store,Home,-600
+Investment,Vanguard Index Fund,Investment,-1000
+Transfer,Emergency Fund,Savings,-800
+Purchase,Groceries,Food,-200
+Purchase,Gas Station,Auto,-65
+Purchase,Restaurant,Dining,-95
+Purchase,Entertainment,Movies,-50

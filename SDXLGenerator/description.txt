@@ -1,0 +1,1 @@
+Generate images using Stable Diffusion XL. Create high-quality images from text prompts with control over style, composition, and various generation parameters.

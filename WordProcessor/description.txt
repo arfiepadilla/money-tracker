@@ -1,0 +1,1 @@
+Document editing and word processing. Create and edit rich text documents with formatting options, styles, and document structure tools. Save and export in various formats.

@@ -1,0 +1,1 @@
+Scrolling teleprompter for presentations and recordings. Display text that scrolls at a customizable speed, perfect for video recordings, speeches, and live presentations.

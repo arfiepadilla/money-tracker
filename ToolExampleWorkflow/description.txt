@@ -1,0 +1,20 @@
+TSX Tool Example Workflow
+
+Demonstrates how TSX-only workflows can register MCP tools without needing a Python backend.
+
+Features:
+- Register tools that appear in the Tool Manager
+- Tools are accessible via MCP to Claude Code and other MCP clients
+- Automatic unregistration when the workflow is closed
+
+Example tools provided:
+- greet: Generate personalized greeting messages
+- calculate: Perform arithmetic operations
+- transform_text: Transform text (uppercase, lowercase, reverse, wordcount)
+
+Usage:
+1. Open this workflow
+2. Click "Publish Tools" to register the tools
+3. Check the Tool Manager to see your tools listed
+4. Use the test buttons to verify tool execution
+5. Close the workflow to automatically unregister tools

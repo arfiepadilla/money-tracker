@@ -1,0 +1,28 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Money Tracker App",
+			"type": "shell",
+			"command": "python backend/app.py",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Money Tracker Server",
+			"type": "shell",
+			"command": "python MoneyTracker/money_tracker_server.py",
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Run Money Tracker Server",
+			"type": "shell",
+			"command": "C:/Users/HP/ContextUI/default/workflows/examples/.venv/Scripts/python.exe MoneyTracker/money_tracker_server.py",
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}

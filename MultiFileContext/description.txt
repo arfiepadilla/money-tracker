@@ -1,0 +1,1 @@
+Educational example demonstrating multi-file workflow structure. Shows how to organize workflows across multiple files with local imports, component reusability patterns, and proper bundling practices. Use this as a template when creating workflows that need to be split across multiple files for better organization and maintainability.

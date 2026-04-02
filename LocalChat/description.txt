@@ -1,0 +1,1 @@
+Local chat interface for AI conversations. Chat with locally-running AI models without requiring an internet connection, keeping your conversations private and secure.

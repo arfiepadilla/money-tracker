@@ -1,0 +1,1 @@
+Launch and interact with Claude AI assistant. Provides an interface to start conversations with Claude and manage AI interactions directly from your workspace.

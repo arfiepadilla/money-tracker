@@ -1,0 +1,9 @@
+Transaction Type,Payee,Category,Total
+purchase,Supermarket,Groceries,-50.25
+payment,Electric Company,Utilities,-120.00
+transfer,My Savings,Savings,-200.00
+investment,Stock Broker,Stocks,-500.00
+purchase,Bookstore,Books,-30.00
+,Freelance Client,Consulting,1000.00
+purchase,Coffee Shop,, -5.00
+,Employer,Salary,2500.00

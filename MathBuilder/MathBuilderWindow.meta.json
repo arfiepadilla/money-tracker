@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "name": "Math Builder",
+    "description": "Visual math game for young children - learn addition and subtraction with colorful blocks",
+    "version": "1.0.0",
+    "author": "ContextUI Examples",
+    "category": "Educational",
+    "tags": ["math", "kids", "learning", "addition", "subtraction", "visual", "interactive"],
+    "target_age": "5 years old",
+    "screen_type": "tv_friendly"
+  },
+  "window": {
+    "title": "Math Builder",
+    "width": 1280,
+    "height": 720,
+    "resizable": true,
+    "fullscreen_mode": true,
+    "background_color": "#f0f8ff"
+  },
+  "features": {
+    "requires_server": false,
+    "supports_keyboard": true,
+    "supports_touch": true,
+    "supports_gamepad": false
+  }
+}
