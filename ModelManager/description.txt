@@ -1,1 +1,0 @@
-Manage and configure AI models. View available models, download new ones, configure model settings, and monitor model resource usage.
