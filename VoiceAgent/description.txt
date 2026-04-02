@@ -1,1 +1,0 @@
-Voice-controlled AI agent. Interact with AI using voice commands. The agent listens to your speech, processes requests, and responds with synthesized voice output.
